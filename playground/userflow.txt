@@ -1,0 +1,2 @@
+
+verify => email verification => db (collection emaoil, user, otp) => useremail
